@@ -100,7 +100,7 @@ img {
 @media (min-width: 700px) {
   body {
     height: 100vh;
-    background: url(/images/bg-desktop.svg) no-repeat;
+    background: url(/images/bg-desktop.svg) no-repeat cover;
     background-color: #674baf;
   }
   .container .flex-card {
