@@ -126,5 +126,14 @@ img {
     text-align: left;
     width: 45vw;
   }
+  .container .links {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: end;
+        -ms-flex-pack: end;
+            justify-content: flex-end;
+    padding-right: 5vw;
+  }
 }
 /*# sourceMappingURL=style.css.map */

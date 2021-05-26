@@ -106,5 +106,11 @@ img{
                 width: 45vw;
             }
         }
+
+        .links{
+            display: flex;
+            justify-content: flex-end;
+            padding-right: 5vw;
+        }
     }
 }
